@@ -13,4 +13,4 @@ Examples:
     /ctimers del Einherjar
         Will set previous timer to 0 so that it is cleaned up
 
-Click and drag to reposition (this does not save position on reloading!)
+Shift+Click and drag to reposition (this does not save position on reloading!)
